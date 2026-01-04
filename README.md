@@ -5,17 +5,17 @@ The source code of our paper "Channel-specific Spatial Importance Map Generation
 - Python 3.9
 - PyTorch 2.6.0
 - CUDA 11.8
-- einops=0.8.1=pypi_0 numpy=1.26.3=pypi_0 opencv-python=4.11.0.86=pypi_0 pandas=2.2.3=pypi_0
- pillow=11.0.0=pypi_0
- scikit-image=0.24.0=pypi_0
- scikit-learn=1.6.1=pypi_0
- scipy=1.13.1=pypi_0
- tensorboard=2.19.0=pypi_0
- torch=2.6.0+cu118=pypi_0
- torchvision=0.21.0+cu118=pypi_0
- tqdm=4.65.2=pypi_0
- wandb=0.19.8=pypi_0
- yacs=0.1.8=pypi_0
+- einops=0.8.1  numpy=1.26.3  opencv-python=4.11.0.86  pandas=2.2.3 
+ pillow=11.0.0
+ scikit-image=0.24.0 
+ scikit-learn=1.6.1 
+ scipy=1.13.1 
+ tensorboard=2.19.0
+ torch=2.6.0+cu118 
+ torchvision=0.21.0+cu118 
+ tqdm=4.65.2 
+ wandb=0.19.8 
+ yacs=0.1.8 
 
 
 
