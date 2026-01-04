@@ -23,7 +23,7 @@ The source code of our paper "Channel-specific Spatial Importance Map Generation
 
 
 # Data preparation
-(1) NUDT-SIRST: 
-(2) IRSTD-1k:
-(3) IRSTD-Air:
+(1) NUDT-SIRST: https://github.com/YeRen123455/Infrared-Small-Target-Detection
+(2) IRSTD-1k:https://github.com/RuiZhang97/ISNet/tree/main
+(3) IRSTD-Air: https://github.com/Heron0625/PBT
 (4) NoisySIRST: https://github.com/GrokCV/SeRankDet
